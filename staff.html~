@@ -8,8 +8,6 @@
   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=9" />
   <link rel="stylesheet" type="text/css" href="css/style_1.css" />
-  <link rel="stylesheet" type="text/css" href="css/table.css" />
-  <link href='http://fonts.googleapis.com/css?family=Vollkorn:400,700' rel='stylesheet' type='text/css'>
   <script type="text/javascript" src="js/jquery.min.js"></script>
   <script type="text/javascript" src="js/image_slide.js"></script>
 </head>
@@ -52,65 +50,16 @@
 	  <div id="content">
         <div class="content_item">
 		  <h2>Our Staff</h2> 
-	     
+	      <p>A list of our dedicated and highly motivated staffs:</p>
 		  
 		  <!--<div class="content_image">-->
 		    <!--<img src="images/content_image1.jpg" alt="image1"/>-->
 	      <!--</div>-->
          
 		  <br style="clear:both"/>
-
-<table class="table-fill">
-<thead>
-<tr>
-<th class="text-left">Staff</th>
-<th class="text-left">Job</th>
-<th class="text-left">Phone</th>
-<th class="text-left">Email</th>
-</tr>
-</thead>
-<tbody class="table-hover">
-<tr>
-<td class="text-left">Amal Ghosh</td>
-<td class="text-left">Instructor, Founder</td>
-<td class="text-left">+91-8336857464</td>
-<td class="text-left">msamanr3@gmail.com</td>
-</tr>
-<tr>
-<td class="text-left">Arpita Ghosh</td>
-<td class="text-left">Instructor</td>
-<td class="text-left">+91-9749769202</td>
-<td class="text-left">-</td>
-</tr>
-<tr>
-<td class="text-left">Debabrata Bera</td>
-<td class="text-left">Instructor</td>
-<td class="text-left">-</td>
-<td class="text-left">-</td>
-</tr>
-<tr>
-<td class="text-left">Debdut karmakar</td>
-<td class="text-left">Web Manager, Instructor</td>
-<td class="text-left">-</td>
-<td class="text-left">iawaiponly@gmail.com</td>
-</tr>
-<tr>
-<td class="text-left">Saikat Karmakar</td>
-<td class="text-left">General Staff</td>
-<td class="text-left">-</td>
-<td class="text-left">-</td>
-</tr>
-</tr>
-<tr>
-<td class="text-left">Tapas Karmakar</td>
-<td class="text-left">Trustee</td>
-<td class="text-left">+91-9433461250</td>
-<td class="text-left">karmakartapas27@gmail.com</td>
-</tr>
-</tbody>
-</table>
+		 
     
-   <div id="content_grey">
+<div id="content_grey">
 	  <div class="content_grey_container_box">
 		<h4>Latest Blog Post</h4>
 	    <p> 1 new post as of now. Check out our posts right now!</p>
