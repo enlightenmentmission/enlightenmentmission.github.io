@@ -258,7 +258,30 @@ ul#menu li:hover a
   -webkit-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 10px;
   -moz-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 10px;
   box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 10px;}
-  
+
+.wbox
+{
+  background : #1b1e24;
+  color : white;
+  font : normal 120% "Roboto", helvetica, arial, sans-serif;
+  text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);
+  text-align : center;
+  border-radius: 1px 1px 1px 1px;
+  -moz-border-radius: 1px 1px 1px 1px;
+  -webkit-border: 1px 1px 1px 1px;
+  -webkit-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 10px;
+  -moz-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 10px;
+  box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 10px;
+  margin-top : 20px;
+  margin-bottom : 20px;
+  padding : 5px 5px 5px 5px;
+}
+
+.wbox a
+{
+    color : #CCF0FF ;
+}
+
 .content_container
 { width: 320px;
   padding: 5px;
@@ -438,7 +461,7 @@ ul img {
 #slideshow-caption p {
   padding: 0;
   font: normal 130% arial, sans-serif;
-  color: #FFF;}
+  color: #000;}
 
 
  
